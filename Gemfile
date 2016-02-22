@@ -35,6 +35,8 @@ end
   gem 'devise', '~> 3.4.0'
 
   gem 'paperclip', '~> 4.2.0'
+
+  gem 'bootstrap-sass', '~> 3.2.0.2'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
